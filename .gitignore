@@ -6,3 +6,6 @@ CMakeCache.txt
 
 # Ignore the binaray
 rft-client
+
+# Ignore test files
+*.png
